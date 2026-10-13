@@ -1,0 +1,21 @@
+{
+  "name": "replica-codex",
+  "version": "1.1.0",
+  "description": "11 Codex workflows for app research, architecture, implementation, testing and launch, with six local Python tools.",
+  "author": { "name": "nifontovoleg" },
+  "homepage": "https://github.com/nifontovoleg/replica-codex",
+  "repository": "https://github.com/nifontovoleg/replica-codex",
+  "license": "MIT",
+  "skills": "./skills/",
+  "requires_local_executor": true,
+  "interface": {
+    "displayName": "Replica Codex",
+    "shortDescription": "11 workflows for building and testing apps",
+    "longDescription": "Research app behavior, plan and build your implementation, test flows and prepare launch materials. Includes Russian skill labels and offline Python tools.",
+    "developerName": "nifontovoleg",
+    "category": "Productivity",
+    "capabilities": ["Read", "Write"],
+    "websiteURL": "https://github.com/nifontovoleg/replica-codex",
+    "defaultPrompt": ["Разбери приложение и сохрани карту экранов и сценариев.", "Проверь функции приложения и составь список недостающего."]
+  }
+}

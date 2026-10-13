@@ -1,0 +1,4 @@
+interface:
+  display_name: "Replica: Развёртывание"
+  short_description: "Проверки готовности и публикация приложения"
+  default_prompt: "Используй $replica-deploy для текущего приложения. Сохрани результат в проекте и укажи, что проверено."

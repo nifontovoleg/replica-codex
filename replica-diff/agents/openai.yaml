@@ -1,0 +1,4 @@
+interface:
+  display_name: "Replica: Сравнение"
+  short_description: "Сравнение функций и расположения элементов"
+  default_prompt: "Используй $replica-diff для текущего приложения. Сохрани результат в проекте и укажи, что проверено."

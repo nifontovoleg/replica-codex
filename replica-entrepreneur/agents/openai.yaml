@@ -1,0 +1,4 @@
+interface:
+  display_name: "Replica: Исследование отзывов"
+  short_description: "Проблемы пользователей и приоритеты улучшений"
+  default_prompt: "Используй $replica-entrepreneur для текущего приложения. Сохрани результат в проекте и укажи, что проверено."

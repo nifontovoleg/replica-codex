@@ -1,0 +1,4 @@
+interface:
+  display_name: "Replica: Архитектура"
+  short_description: "Стек, база данных, API и порядок разработки"
+  default_prompt: "Используй $replica-architect для текущего приложения. Сохрани результат в проекте и укажи, что проверено."

@@ -1,0 +1,15 @@
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+*.tmp
+.test-artifacts/
+.test-deps/
+dist/
+
+# Local credentials and generated environments
+.env
+.env.*
+!.env.example
+*.pem
+*.key

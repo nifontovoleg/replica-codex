@@ -1,0 +1,4 @@
+interface:
+  display_name: "Replica: Подготовка запуска"
+  short_description: "Лендинг, цены и описания для магазинов"
+  default_prompt: "Используй $replica-launch для текущего приложения. Сохрани результат в проекте и укажи, что проверено."
